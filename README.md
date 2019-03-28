@@ -1,5 +1,6 @@
-#apeMETS
-March 2019: This repository is meant for maintenance of apeMETS and apeMETSRights, the profile of METS currently used in the 
+# apeMETS
+March 2019: 
+This repository is meant for maintenance of apeMETS and apeMETSRights, the profile of METS currently used in the 
 Archives Portal Europe (APE). 
 Change requests to the schema or the conversion to apeMETS from loacl METS formats can be added here.
 
