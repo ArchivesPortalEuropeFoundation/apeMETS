@@ -2,7 +2,7 @@
 March 2019: 
 This repository is meant for maintenance of apeMETS and apeMETSRights, the profile of METS currently used in the 
 Archives Portal Europe (APE). 
-Change requests to the schema or the conversion to apeMETS from loacl METS formats can be added here.
+Change requests to the schema or the conversion to apeMETS from local METS formats can be added here.
 
 The Working Group on Standards (WGoS) will then include these change requests in their monthly meetings, usually held on the third 
 Tuesday each month. WGoS will then decide on the best way to address the issue (either by a change of schema or a change of conversion or
