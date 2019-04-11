@@ -17,6 +17,11 @@ When reporting an issue, the following should be provided:
 * Example of XML code to such a request (in case of a conversion issue, the XML should ideally show the way an issue is dealt with now and the way one would like it to be dealt with in the future)
 
 
-Note: 
-More comprehensive information and documentation on apeMETS can be found in the Archives Portal Europe Wiki - 
+Note 1: 
+More comprehensive information and documentation on apeMETS can be found in the Archives Portal Europe Wiki  
 http://wiki.archivesportaleurope.net/index.php/apeMETS
+
+Note 2:
+Technical information (schema and conversion scripts) can be found in our other repositories here on GitHub  
+* Schema: https://github.com/ArchivesPortalEuropeFoundation/ape-dpt/tree/master/DPTutils/src/main/resources
+* Conversion script: https://github.com/ArchivesPortalEuropeFoundation/ape-dpt/tree/master/xsl
